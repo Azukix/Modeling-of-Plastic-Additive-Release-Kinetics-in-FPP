@@ -1,2 +1,4 @@
 # Modeling-of-Plastic-Additive-Release-Kinetics-in-FPP
-code and datasets
+The code, raw input data, and generated Mordred descriptors for building the MRE prediction model correspond to GBR-Mordred-MR.ipynb, MR20241113.csv, and MR-train-d.csv, respectively.
+The code, raw input data, and generated Mordred descriptors for building the log τ prediction model correspond to SVM-Mordred-logt.ipynb, t1.csv, and t1-train-d.csv, respectively.
+The code, raw input data, and generated Mordred descriptors for building the β prediction model correspond to XGBoost-Mordred-beta.ipynb, beta.csv, and XGBoost-train-d.csv, respectively.
